@@ -6,9 +6,9 @@ I'm passionate about self-driving cars 🚗, aerospace 🚀, and music productio
 
 Currently, I'm founding two startups:
 
-**[lobi](https://lobi.ai)**: Assisting Uber- and Bolt drivers to earn more money for each ride by prediciting customer rides.
+**[lobi](https://lobi.ai)**: Assisting Uber- and Bolt drivers to earn more money for each ride by predicting customer rides.
 
-**[AIKONE](https://aikone.at)**: Assisting content creators to shift from "brand promoter" to "brand owner" by designing, developing, producing and scaling their own sustainable fashion brand.
+**[AIKONE](https://aikone.at)**: Assisting content creators to shift from "brand promoter" to "brand owner" by designing, developing, producing, and scaling their own sustainable fashion brand.
 
 **CHECK OUT MY PINNED REPOSITORIES BELOW FOR SOME ACTUAL CODE!**
 
