@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to my engineering hub!
 
-<!--
-**alex-lechner/alex-lechner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi and welcome! My name is Alex and I'm an entrepreneur and engineer.
 
-Here are some ideas to get you started:
+I'm passionate about self-driving cars 🚗, aerospace 🚀, and music production 🎵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm founding two startups:
+
+**[lobi](https://lobi.ai)**: Assisting Uber- and Bolt drivers to earn more money for each ride by prediciting customer rides.
+
+**[AIKONE](https://aikone.at)**: Assisting content creators to shift from "brand promoter" to "brand owner" by designing, developing, producing and scaling their own sustainable fashion brand.
+
+**CHECK OUT MY PINNED REPOSITORIES BELOW FOR SOME ACTUAL CODE!**
+
+---
+
+[![](https://raw.githubusercontent.com/alex-lechner/alex-lechner/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/alex-lechner/alex-lechner/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/alex-lechner/alex-lechner/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
