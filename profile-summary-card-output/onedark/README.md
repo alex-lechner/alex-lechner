@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/alex-lechner/alex-lechner/main/profile-summary-card-output/onedark/4-productive-time.svg)
+```
+
+    
