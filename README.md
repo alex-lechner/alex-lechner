@@ -1,14 +1,22 @@
 # Welcome to my engineering hub!
 
-Hi and welcome! My name is Alex and I'm an entrepreneur & engineer.
+Hello and welcome! I'm Alex, an entrepreneur and passionate problem-solver.
 
-I'm passionate about self-driving cars 🚗, aerospace 🚀, and music production 🎵
+As an engineer, I enjoy building technology, but I HATE it when nobody uses it (and if the design is ugly). That's why I work as a technical product consultant, assisting B2B tech startups in defining and selling their products. I bridge the gap between real painful customer problems, groundbreaking technology (developed from first principles, of course), and high-touch aesthetics. I strive to do what Apple (during the Steve Jobs Era) used to do, but in small :)
 
-Currently, I'm founding two startups:
+**My vision**
+> Bring 23rd century innovation to the 21st century.
 
-**[lobi - lobi.ai](https://lobi.ai)**: lobi assists Uber- and Bolt drivers to earn more money for each ride by predicting customer demand.
+**My mission**
+> Turn an idea from *crazy* into *real*.
 
-**[AIKONE - aikone.at](https://aikone.at)**: AIKONE assists content creators to shift from "brand promoters" to "brand owners" by designing, developing, producing, and scaling their sustainable fashion brands.
+In the past, I've launched three ventures, with the most recent ones being:
+
+**[lobi - lobi.ai](https://lobi.ai)**: lobi assisted Uber- and Bolt drivers to earn more money for each ride by predicting customer demand.
+
+**[AIKONE - aikone.at](https://aikone.at)**: AIKONE assisted content creators in shifting from "brand promoters" to "brand owners" by designing, developing, producing, and scaling their sustainable fashion brands.
+
+Aside from my work, I'm passionate about self-driving cars 🚗, aerospace 🚀, and music production 🎵.
 
 **CHECK OUT MY PINNED REPOSITORIES BELOW FOR SOME ACTUAL CODE!**
 
