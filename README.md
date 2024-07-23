@@ -8,7 +8,7 @@ As an engineer, I enjoy building technology, but I HATE it when nobody uses it (
 > Bring 23rd century innovation to the 21st century.
 
 **My mission**
-> Turn an idea from *crazy* into *real*.
+> Turn any **useful & crazy** idea into a business.
 
 In the past, I've launched three ventures, with the most recent ones being:
 
